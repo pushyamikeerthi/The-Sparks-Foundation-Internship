@@ -19,11 +19,11 @@ Data set : https://bit.ly/3kXTdox
 
 The task is :
 
-      * As a business manager, try to find out the weak areas where you can work to make more profit.
+  (i) As a business manager, try to find out the weak areas where you can work to make more profit.
       
-      * What all business problems you can derive by exploring the data?
+ (ii) What all business problems you can derive by exploring the data?
       
-      * Dash Boards - explaining the charts and interpretations.
+ (iii) Dash Boards - explaining the charts and interpretations.
 
 
 #### Task 4 : Global-Terrorism-Attacks
