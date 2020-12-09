@@ -1,2 +1,2 @@
-# PG-Diploma-University-of-Chicago
-Academic Projects
+# The-Sparks-Foundation-Internship
+Internship Projects
